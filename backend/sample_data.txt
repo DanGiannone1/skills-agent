@@ -1,0 +1,179 @@
+# Metadata
+
+## Approved Skill Library
+- Python
+- Java
+- JavaScript
+- C++
+- Rust
+- Go
+- TypeScript
+- React
+- Angular
+- Django
+- Spring Boot
+- TensorFlow
+- PyTorch
+- AWS
+- Azure
+- Kubernetes
+- Docker
+- Terraform
+- CI/CD
+- Test-Driven Development
+- Agile Methodologies
+- DevOps
+- PostgreSQL
+- MongoDB
+- Redis
+- Elasticsearch
+
+## Approved Competencies
+- Technical Leadership
+- Problem Solving
+- Communication
+- Project Management
+- System Design
+- Code Quality
+- Architecture Planning
+- Mentorship
+
+# Employee Data
+
+## Employee 1: Dan Giannone
+### Structured Workday Data
+#### Approved Skills
+- Python
+- JavaScript
+- React
+- AWS
+- MongoDB
+- CI/CD
+- Test-Driven Development
+
+#### Competencies
+- Generative AI : Expert
+- AI Agents : Expert
+- Containers: Beginner
+- DevOps: Intermediate
+- Data Platforms: Expert
+
+#### Free Text Skills
+- Next.js
+- AI Agents
+- LangGraph
+- Azure AI Foundry
+- RAG
+- Prompt Engineering
+
+### Project History
+1. AI Agents Development
+   - Role: Solution Architect
+   - Duration: 2025-Present
+   - Description: Development of AI Agents for a professional services company. These agents are used to improve employee productivity and efficiency by automating tasks and providing real-time insights.
+
+2. Data Platform Migration
+   - Role: Technical Lead
+   - Duration: 2022-2023
+   - Description: Migration of the company's data platform to Azure. This included the migration of the data lake, data warehouse, and data processing pipelines.
+
+   
+3. Analytics Dashboard
+   - Role: Full Stack Developer
+   - Duration: 2021-2022
+   - Description: Internal analytics platform designed to consolidate data from multiple sources including CRM, marketing automation, and customer support systems. The platform provides real-time insights and automated reporting capabilities for executive decision-making.
+
+## Employee 2: Marcus Rodriguez
+### Structured Workday Data
+#### Approved Skills
+- Java
+- Spring Boot
+- PostgreSQL
+- Azure
+- DevOps
+
+#### Competencies
+- Technical Leadership: Intermediate
+- Problem Solving: Advanced
+- Communication: Expert
+- Project Management: Intermediate
+- System Design: Advanced
+- Code Quality: Expert
+- Architecture Planning: Advanced
+- Mentorship: Intermediate
+
+#### Free Text Skills
+- Kotlin
+- Apache Kafka
+- System architecture
+- Mentoring junior developers
+- Technical documentation
+- REST API design
+- Message queue systems
+- Jenkins
+
+### Project History
+1. Banking Integration Platform
+   - Role: Backend Developer
+   - Duration: 2023-Present
+   - Description: New payment processing platform designed to handle international transactions for a major financial institution. The system processes cross-border payments, supports multiple currencies, and integrates with various banking APIs. Platform designed to handle peak loads of 10,000 transactions per second.
+
+2. DevOps Transformation
+   - Role: DevOps Engineer
+   - Duration: 2022-2023
+   - Description: Company-wide initiative to modernize software delivery practices across 15 development teams. Project involved implementing automated testing, continuous deployment, and infrastructure as code practices. New platform supports over 100 deployments per day across all environments.
+
+3. Customer Data Platform
+   - Role: Senior Developer
+   - Duration: 2021-2022
+   - Description: Centralized customer data platform consolidating information from multiple sources including CRM, marketing, and sales systems. Platform handles real-time data synchronization and provides a single source of truth for customer information across the organization.
+
+## Employee 3: Alex Thompson
+### Structured Workday Data
+#### Approved Skills
+- Python
+- JavaScript
+- TypeScript
+- TensorFlow
+- PyTorch
+- Go
+- Kubernetes
+- Docker
+
+#### Competencies
+- Technical Leadership: Beginner
+- Problem Solving: Expert
+- Communication: Intermediate
+- Project Management: Beginner
+- System Design: Advanced
+- Code Quality: Advanced
+- Architecture Planning: Intermediate
+- Mentorship: Beginner
+
+#### Free Text Skills
+- FastAPI
+- Ray
+- MLOps
+- Data pipeline design
+- Jupyter notebooks
+
+### Project History
+1. ML Model Deployment Platform
+   - Role: Machine Learning Engineer
+   - Duration: 2023-Present
+   - Description: Enterprise machine learning platform designed to streamline the deployment and monitoring of ML models. Platform supports automated model training, A/B testing, and monitoring of model performance in production. Currently serving 50+ production models across various business units.
+
+2. Recommendation Engine
+   - Role: Data Scientist
+   - Duration: 2022-2023
+   - Description: Advanced recommendation system for e-commerce platform using deep learning techniques. System processes user behavior data in real-time to provide personalized product recommendations. Platform handles 1M+ daily active users and integrates with existing e-commerce infrastructure.
+
+3. Real-time Processing System
+   - Role: Software Engineer
+   - Duration: 2021-2022
+   - Description: High-throughput event processing system designed to handle real-time analytics for IoT devices. System ingests and processes sensor data from 100,000+ connected devices, providing real-time alerting and analytics capabilities.
+
+4. Data Science Platform
+   - Role: Platform Engineer
+   - Duration: 2020-2021
+   - Description: Internal platform built to support data science workflows across the organization. Platform provides automated feature engineering, experiment tracking, and model deployment capabilities. Currently used by 50+ data scientists across multiple teams.

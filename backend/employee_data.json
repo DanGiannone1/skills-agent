@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "approved_skills": [
+
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "Go",
+      "R",
+      "SQL",
+      "React",
+      "Node.js",
+      "FastAPI",
+      "Django",
+      "GraphQL",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "LangChain",
+      "Hugging Face",
+      "RAG",
+      "LLMOps",
+      "Prompt Engineering",
+      "Computer Vision",
+      "NLP",
+      
+      "Apache Spark",
+      "Databricks",
+      "dbt",
+      "Snowflake",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Data Modeling",
+      "ETL Pipeline Development",
+      "Data Governance",
+      
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      
+      "MLflow",
+      "Kubeflow",
+      "Airflow",
+      "Great Expectations",
+      "DVC",
+      "MLOps",
+      "DataOps",
+
+      "Power BI",
+      "Tableau",
+      "Looker",
+      "Data Analytics",
+      "Business Intelligence"
+    ],
+    "approved_competencies": [
+
+      "Technical Architecture",
+      "System Design",
+      "Solution Architecture",
+      "Technical Strategy",
+      "Innovation Leadership",
+      
+      "AI Strategy",
+      "Data Strategy",
+      "ML Architecture",
+      "Data Architecture",
+      "AI Governance",
+      "Data Governance",
+      
+      "Technical Team Leadership",
+      "Project Management",
+      "Agile Leadership",
+      "Product Strategy",
+      "Cross-functional Collaboration",
+      
+      "Problem Solving",
+      "Software Design",
+      "Code Quality",
+      "Performance Optimization",
+      "Security Best Practices",
+      "API Design",
+      
+      "Technical Communication",
+      "Stakeholder Management",
+      "Mentorship",
+      "Technical Writing",
+      "Requirements Gathering",
+      "Client Engagement",
+
+      "Business Acumen",
+      "Strategic Thinking",
+      "Digital Transformation",
+      "Innovation Management",
+      "ROI Analysis",
+      
+      "Continuous Learning",
+      "Knowledge Sharing",
+      "Research",
+      "Technical Training",
+      "Community Building"
+    ]
+  },
+  "employee_skills": [
+    {
+      "id": "DG001",
+      "employee_id": "DG001",
+      "partitionKey": "DG001",
+      "name": "Dan Giannone",
+      "type": "skills",
+      "approved_skills": [
+        "PYTHON",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "competencies": {
+        "Problem Solving": "Expert",
+        "System Design": "Intermediate"
+      },
+      "free_text_skills": [
+        "Next.js",
+        "AI Agents",
+        "LangGraph",
+        "Full Stack App Development",
+        "Building AI frontends",
+        "AutoGen",
+        "Azure AI Foundry",
+        "RAG",
+        "Prompt Engineering",
+        "Microsoft Fabric",
+        "Azure Databricks",
+        "Data Engineering",
+        "Data Platform",
+        "Yoga",
+        "LLM Ops",
+        "CrossFit",
+        "Blogging",
+        "Grilling a mean steak",
+        "Critical Thinking"
+      ],
+      "certifications": [
+        "Azure Solutions Architect Associate",
+        "Azure AI Engineer",
+        "Microsoft Data & AI Navigator"
+      ]
+    },
+    {
+      "id": "MR001",
+      "employee_id": "MR001",
+      "partitionKey": "MR001",
+      "name": "Marcus Rodriguez",
+      "type": "skills",
+      "approved_skills": [
+        "Java",
+        "PostgreSQL"
+      ],
+      "competencies": {
+        "Technical Leadership": "Intermediate",
+        "Communication": "Expert"
+      },
+      "free_text_skills": [
+        "Kotlin",
+        "Apache Kafka",
+        "System architecture",
+        "Mentoring junior developers",
+        "Technical documentation",
+        "REST API design",
+        "Message queue systems",
+        "Jenkins"
+      ],
+      "certifications": [
+        "Professional Scrum Master I",
+        "Oracle Certified Professional, Java SE 11 Developer",
+        "Spring Professional Certification"
+      ]
+    },
+    {
+      "id": "AT001",
+      "employee_id": "AT001",
+      "partitionKey": "AT001",
+      "name": "Alex Thompson",
+      "type": "skills",
+      "approved_skills": [
+        "Python",
+        "Docker"
+      ],
+      "competencies": {
+        "Problem Solving": "Expert",
+        "System Design": "Advanced"
+      },
+      "free_text_skills": [
+        "FastAPI",
+        "Ray",
+        "MLOps",
+        "Data pipeline design",
+        "Jupyter notebooks"
+      ],
+      "certifications": [
+        "Google Professional Machine Learning Engineer",
+        "Kubernetes Administrator (CKA)",
+        "TensorFlow Developer Certificate"
+      ]
+    }
+  ],
+  "employee_projects": [
+    {
+      "id": "DG001",
+      "employee_id": "DG001",
+      "partitionKey": "DG001",
+      "name": "Dan Giannone",
+      "type": "projects",
+      "projects": [
+        {
+          "name": "AI Agents Development",
+          "role": "Solution Architect",
+          "duration": "2025-Present",
+          "description": "Development of AI Agents for a professional services company. These agents are used to improve employee productivity and efficiency by automating tasks and providing real-time insights."
+        },
+        {
+          "name": "Data Platform Migration",
+          "role": "Solution Architect",
+          "duration": "2023-2024",
+          "description": "Migration of the company's data platform to Azure. This included the migration of the data lake, data warehouse, and data processing pipelines."
+        },
+        {
+          "name": "RAG System Development",
+          "role": "Solution Architect",
+          "duration": "2022-2024",
+          "description": "Development of an advanced RAG system using Azure OpenAI and LangChain."
+        }
+      ]
+    },
+    {
+      "id": "MR001",
+      "employee_id": "MR001",
+      "partitionKey": "MR001",
+      "name": "Marcus Rodriguez",
+      "type": "projects",
+      "projects": [
+        {
+          "name": "Banking Integration Platform",
+          "role": "Backend Developer",
+          "duration": "2023-Present",
+          "description": "New payment processing platform designed to handle international transactions for a major financial institution. The system processes cross-border payments, supports multiple currencies, and integrates with various banking APIs. Platform designed to handle peak loads of 10,000 transactions per second."
+        },
+        {
+          "name": "DevOps Transformation",
+          "role": "DevOps Engineer",
+          "duration": "2022-2023",
+          "description": "Company-wide initiative to modernize software delivery practices across 15 development teams. Project involved implementing automated testing, continuous deployment, and infrastructure as code practices. New platform supports over 100 deployments per day across all environments."
+        },
+        {
+          "name": "Customer Data Platform",
+          "role": "Senior Developer",
+          "duration": "2021-2022",
+          "description": "Centralized customer data platform consolidating information from multiple sources including CRM, marketing, and sales systems. Platform handles real-time data synchronization and provides a single source of truth for customer information across the organization."
+        }
+      ]
+    },
+    {
+      "id": "AT001",
+      "employee_id": "AT001",
+      "partitionKey": "AT001",
+      "name": "Alex Thompson",
+      "type": "projects",
+      "projects": [
+        {
+          "name": "ML Model Deployment Platform",
+          "role": "Machine Learning Engineer",
+          "duration": "2023-Present",
+          "description": "Enterprise machine learning platform designed to streamline the deployment and monitoring of ML models. Platform supports automated model training, A/B testing, and monitoring of model performance in production. Currently serving 50+ production models across various business units."
+        },
+        {
+          "name": "Recommendation Engine",
+          "role": "Data Scientist",
+          "duration": "2022-2023",
+          "description": "Advanced recommendation system for e-commerce platform using deep learning techniques. System processes user behavior data in real-time to provide personalized product recommendations. Platform handles 1M+ daily active users and integrates with existing e-commerce infrastructure."
+        },
+        {
+          "name": "Real-time Processing System",
+          "role": "Software Engineer",
+          "duration": "2021-2022",
+          "description": "High-throughput event processing system designed to handle real-time analytics for IoT devices. System ingests and processes sensor data from 100,000+ connected devices, providing real-time alerting and analytics capabilities."
+        },
+        {
+          "name": "Data Science Platform",
+          "role": "Platform Engineer",
+          "duration": "2020-2021",
+          "description": "Internal platform built to support data science workflows across the organization. Platform provides automated feature engineering, experiment tracking, and model deployment capabilities. Currently used by 50+ data scientists across multiple teams."
+        }
+      ]
+    }
+  ]
+}
+

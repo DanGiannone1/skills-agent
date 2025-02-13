@@ -1,0 +1,11 @@
+azure-ai-documentintelligence==1.0.0b2
+azure-cosmos==4.5.1
+azure-search-documents==11.4.0
+azure-storage-blob==12.22.0
+python-dotenv
+flask
+azure-identity
+langchain-openai==0.2.3
+langgraph==0.2.56
+azure-communication-email
+databricks-sql-connector==4.0.0
