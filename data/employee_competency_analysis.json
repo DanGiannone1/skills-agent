@@ -1,0 +1,98 @@
+[
+  {
+    "employee_id": 11707953,
+    "name": "Hank Hill",
+    "thought_process": "Hank Hill's existing cloud skills and project history provide a limited but clear picture of his expertise. His cloud skills include programming languages like Python and C, agile methodologies, and communication engineering, which align with general technical and project management competencies. His project history includes work on DXC-IBM AS/400, which is a specific technical competency. However, his certifications are currently empty, which limits the ability to map additional competencies directly from certifications. Comparing his skills and project history to the company's approved competencies list, it is evident that he is missing many competencies that could be inferred from his skills and project involvement. For example, his programming skills could align with competencies like DXC-PROGRAMMING (PYTHON, PYSPARK, SQL), and his work on DXC-IBM AS/400 directly maps to the DXC-IBM JD EDWARDS CONFIGURABLE NETWORK COMPUTING (CNC) - AS/400 competency. Additionally, his agile methodologies expertise could align with DXC-SCALED AGILE FRAMEWORK (SAFE).",
+    "new_competencies": [
+      {
+        "competency": "DXC-IBM AS/400",
+        "confidence": 100,
+        "reasoning": "Hank worked on a project that explicitly required this competency, making it a direct match."
+      },
+      {
+        "competency": "DXC-PROGRAMMING (PYTHON, PYSPARK, SQL)",
+        "confidence": 90,
+        "reasoning": "Hank's cloud skills include Python programming, which strongly aligns with this competency. However, there is no explicit mention of PySpark or SQL, so the confidence is slightly reduced."
+      },
+      {
+        "competency": "DXC-SCALED AGILE FRAMEWORK (SAFE)",
+        "confidence": 80,
+        "reasoning": "Hank's expertise in agile methodologies suggests familiarity with scaled agile frameworks, but there is no direct evidence of SAFE certification or experience."
+      }
+    ]
+  },
+  {
+    "employee_id": 11748184,
+    "name": "Dale Gribble",
+    "thought_process": "Dale Gribble's existing cloud skills and certifications indicate a strong focus on network security, firewalls, and cloud platforms such as AWS and Microsoft Azure. His certifications in Fortinet (NSE 1, NSE 2, NSE 3) and AWS Certified Solutions Architect - Associate demonstrate expertise in cybersecurity and cloud architecture. Additionally, his project history includes Managed Network Services, which aligns with network management and security competencies. However, his existing approved competencies list is empty, suggesting a gap in formally recognized competencies despite his evident skills and experience. By cross-referencing his skills, certifications, and project history with the company's approved competencies list, we can identify relevant competencies that should be added to his profile.",
+    "new_competencies": [
+      {
+        "competency": "DXC-AMAZON WEB SERVICES (AWS) ELASTIC KUBERNETES SERVICE",
+        "confidence": 100,
+        "reasoning": "Dale holds the AWS Certified Solutions Architect - Associate certification, which directly aligns with AWS-related competencies, including Elastic Kubernetes Service."
+      },
+      {
+        "competency": "DXC-MICROSOFT AZURE DATABASE SERVICES",
+        "confidence": 100,
+        "reasoning": "Dale has certifications in Microsoft Azure Fundamentals (AZ-900), which aligns with Azure-related competencies, including database services."
+      },
+      {
+        "competency": "DXC-NETWORK & SECURITY DESIGN",
+        "confidence": 100,
+        "reasoning": "Dale's extensive cloud skills in network security technologies, firewalls, and VPNs, combined with his Fortinet certifications, strongly align with this competency."
+      },
+      {
+        "competency": "DXC-SERVER CONFIGURATION & MAINTENANCE",
+        "confidence": 90,
+        "reasoning": "Dale's skills in troubleshooting and network security suggest familiarity with server configuration and maintenance, though this is inferred rather than explicitly stated."
+      },
+      {
+        "competency": "DXC-DOMAIN NAME SYSTEM (DNS)",
+        "confidence": 80,
+        "reasoning": "Dale's network security expertise likely includes DNS management, as it is a fundamental aspect of network security, though not explicitly mentioned in his skills or certifications."
+      },
+      {
+        "competency": "DXC-MANAGED NETWORK SERVICES",
+        "confidence": 100,
+        "reasoning": "Dale's project history explicitly includes Managed Network Services, making this a direct match."
+      }
+    ]
+  },
+  {
+    "employee_id": 11716047,
+    "name": "Peggie Hill",
+    "thought_process": "Peggie Hill's existing cloud skills and certifications indicate strong expertise in Salesforce and JavaScript, supported by her Salesforce Certified Administrator certification. Her project history further confirms her proficiency in JavaScript and Java, as these were required competencies and certifications for the projects she worked on. However, her existing approved competencies list is empty, which suggests a gap in formally recognized competencies despite her demonstrated skills and certifications. By cross-referencing her skills and project history with the company's approved competencies list, we can identify relevant competencies that should be added to her profile. For example, her Salesforce expertise aligns with competencies like DXC-SALESFORCE COMMUNITY CLOUD and DXC-SALESFORCE QUALITY ASSURANCE. Similarly, her JavaScript and Java skills could map to competencies like DXC-ANGULAR and DXC-BOOTSTRAP, which are related to web development and programming. Additionally, her involvement in projects requiring Java and JavaScript suggests she may have competencies in DXC-JAVA and DXC-JAVASCRIPT, even though these are not explicitly listed in the approved competencies. Overall, her certifications, cloud skills, and project history provide a solid basis for recommending new competencies.",
+    "new_competencies": [
+      {
+        "competency": "DXC-SALESFORCE COMMUNITY CLOUD",
+        "confidence": 100,
+        "reasoning": "Peggie's extensive Salesforce skills and Salesforce Certified Administrator certification strongly align with this competency."
+      },
+      {
+        "competency": "DXC-SALESFORCE QUALITY ASSURANCE",
+        "confidence": 100,
+        "reasoning": "Her Salesforce expertise and certification suggest she has the necessary skills for quality assurance within the Salesforce ecosystem."
+      },
+      {
+        "competency": "DXC-JAVA",
+        "confidence": 100,
+        "reasoning": "Peggie worked on a project requiring DXC-JAVA as a competency, and her cloud skills include Java, confirming her proficiency."
+      },
+      {
+        "competency": "DXC-JAVASCRIPT",
+        "confidence": 100,
+        "reasoning": "Her project history includes work requiring JavaScript, and her cloud skills list JavaScript as a proficiency."
+      },
+      {
+        "competency": "DXC-ANGULAR",
+        "confidence": 80,
+        "reasoning": "While Peggie's JavaScript skills suggest she may have experience with Angular, there is no direct evidence from her certifications or project history to confirm this."
+      },
+      {
+        "competency": "DXC-BOOTSTRAP",
+        "confidence": 80,
+        "reasoning": "Her JavaScript expertise implies potential familiarity with Bootstrap, but this is not explicitly confirmed by her certifications or project history."
+      }
+    ]
+  }
+]
